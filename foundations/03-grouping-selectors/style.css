@@ -1,0 +1,13 @@
+.plz {
+    background: black;
+    color: white;
+}
+
+.ok {
+    background: yellow;
+}
+
+.plz, .ok {
+    font-size: 28px;
+    font-family: "helvetica", "times new roman", sans-serif;
+}
